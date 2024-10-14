@@ -1,4 +1,4 @@
-PwC Virtual Internship - Power BI Dashboards
+### PwC Virtual Internship - Power BI Dashboards
 This repository showcases the Power BI dashboards created during my virtual internship at PwC. The internship involved applying data analysis and visualization skills to address real-world business problems for a telecom client. Throughout the internship, I developed dashboards to analyze customer service performance, customer retention strategies, and diversity & inclusion efforts.
 
 Table of Contents
