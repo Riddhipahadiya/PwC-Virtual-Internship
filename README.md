@@ -1,36 +1,30 @@
-### PwC Virtual Internship - Power BI Dashboards
+# PwC Virtual Internship - Power BI Dashboards
 This repository showcases the Power BI dashboards created during my virtual internship at PwC. The internship involved applying data analysis and visualization skills to address real-world business problems for a telecom client. Throughout the internship, I developed dashboards to analyze customer service performance, customer retention strategies, and diversity & inclusion efforts.
 
-Table of Contents
-Overview
-Tasks
-Skills Applied
-Technology Stack
-Setup Instructions
-Usage
-Screenshots
-Challenges Faced
-Future Improvements
-Key Learnings
-Acknowledgments
-License
-Overview
+## Table of Contents
+1. [Overview](#overview)
+2. [Tasks](#tasks)
+3. [Skills Applied](#skills-applied)
+4. [Setup Instructions](#setup-instructions)
+5. [Usage](#usage)
+6. [Screenshots](#screenshots)
+7. [Key Learnings](#key-learnings)
+8. [Acknowledgments](#acknowledgments)
+
+## Overview
 During my PwC Virtual Internship, I worked on three tasks, each designed to provide insights and solutions for a telecom client. These tasks involved creating interactive Power BI dashboards to present actionable insights from raw data. The internship was part of PwC's initiative to upskill individuals and prepare them for a data-driven future.
 
-Tasks
+## Tasks overview
 Task 1: Customer Service Dashboard
-Objective:
-Create a Power BI dashboard that visualizes customer service metrics for a telecom client. The goal was to identify key performance indicators (KPIs) such as customer satisfaction, call answer/abandon rates, average speed of answer, and agent performance. The dashboard helped the client identify areas for improvement in their customer service process.
-
-Key KPIs:
+**objective**:
+The first task involved creating a dashboard for a client named Claire, who needed insights into the company's customer service performance. The dashboard focused on several KPIs and metrics, including:
 
 Overall customer satisfaction
 Calls answered vs. abandoned
-Calls by time
+Calls by time of day
 Average speed of answer
-Agent performance quadrant: average handle time vs. calls answered
-Dashboard:
-[Upload the Task 1 dashboard file here]
+Agent performance quadrant: Average handle time (talk duration) vs. calls answered
+This dashboard helped the management team understand their customer service efficiency and pinpoint areas for improvement.
 
 Task 2: Customer Retention Dashboard
 Objective:
