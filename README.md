@@ -2,6 +2,10 @@
 
 This repository contains Power BI dashboards created during my virtual internship with PwC on Forage. The internship focused on analyzing business data and presenting actionable insights through data visualization.
 
+## Internship Overview
+
+At PwC, I had the opportunity to immerse myself in the world of business intelligence through their virtual internship program on Forage. The internship allowed me to work with a range of data sets to create insightful dashboards that provided valuable insights into customer service performance, customer retention strategies, and diversity and inclusion efforts. Each task required the application of data modeling, visualization, and communication skills to deliver actionable insights.
+
 ## Tasks Overview
 
 ### Task 1: Customer Service Dashboard for Claire
