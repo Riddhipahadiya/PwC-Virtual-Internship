@@ -6,7 +6,7 @@ This repository showcases the Power BI dashboards created during my virtual inte
 1. [Overview](#overview)
 2. [Project Motivation](#project-motivation)
 3. [Tech Stack](#tech-stack)
-4. [Prerequisites](#prerequisites)
+4. [Pre-requisites](#prerequisites)
 5. [Tasks Breakdown](#tasks-breakdown)
    - [Task 1: Customer Service Dashboard for Claire](#task-1-customer-service-dashboard-for-claire)
    - [Task 2: Customer Retention Dashboard for Telecom Client](#task-2-customer-retention-dashboard-for-telecom-client)
@@ -28,7 +28,7 @@ The motivation for this project stemmed from the increasing importance of data-d
 - **Power BI**: For data visualization and dashboard creation
 - **Excel**: For data preparation and analysis
 
-## Prerequisites
+## Pre-requisites
 Before using the dashboards, ensure you have the following:
 - Microsoft Power BI installed on your system
 - Access to the datasets used in the dashboards
